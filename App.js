@@ -32,7 +32,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.body}>
-        <Text style={styles.sectionTitle}>Aplicação Consumo de Água </Text>
+        <Text style={styles.sectionTitle}>Agua é saude</Text>
       </View>
     );
   }

@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.8.6",
     "react-native": "0.60.5",
-    "react-native-code-push": "^5.7.0",
+    "react-native-code-push": "^7.0.5",
     "react-native-onesignal": "^3.4.1"
   },
   "devDependencies": {
